@@ -7,6 +7,13 @@ Query expansion techniques
 
 Cross-encoder re-ranking for improved retrieval accuracy
 
+Source Document Used
+All retrieval pipelines were tested using the following research paper as the primary source document:
+
+Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette
+arXiv:2412.11167
+
+
 📁 Notebooks Overview
 1. RAG1.ipynb
 A simple end-to-end RAG pipeline using Croma. This notebook:
