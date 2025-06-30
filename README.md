@@ -14,8 +14,7 @@ All retrieval pipelines were tested using the following research paper as the pr
 
 ### Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette
 #### Jiahao Yuan, Zixiang Di, Shangzixin Zhao, Usman Naseem
-### link: arXiv:2412.11167
-
+### link: [arXiv:2412.11167](https://doi.org/10.48550/arXiv.2412.11167)
 
 ***📁 Notebooks Overview*** 
 1. RAG1.ipynb
