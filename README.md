@@ -1,4 +1,5 @@
-🔍 First Steps with Croma: Retrieval-Augmented Generation & Re-ranking
+***🔍 First Steps with Croma: Retrieval-Augmented Generation & Re-ranking***
+
 This repository contains my first experiments using Croma, a Python library for building Retrieval-Augmented Generation (RAG) pipelines. It includes basic implementations of:
 
 Document retrieval using vector stores
@@ -7,14 +8,16 @@ Query expansion techniques
 
 Cross-encoder re-ranking for improved retrieval accuracy
 
-Source Document Used
+***Source Document Used:***
+
 All retrieval pipelines were tested using the following research paper as the primary source document:
 
-Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette
-arXiv:2412.11167
+### Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette
+#### Jiahao Yuan, Zixiang Di, Shangzixin Zhao, Usman Naseem
+### link: arXiv:2412.11167
 
 
-📁 Notebooks Overview
+***📁 Notebooks Overview*** 
 1. RAG1.ipynb
 A simple end-to-end RAG pipeline using Croma. This notebook:
 
@@ -43,7 +46,7 @@ Sentence Transformers for embeddings and re-ranking
 
 Jupyter Notebooks for experimentation
 
-🚀 Getting Started
+***🚀 Getting Started***
 To run these notebooks:
 
 Install dependencies:
@@ -54,5 +57,5 @@ Open each notebook in Jupyter or VSCode
 
 Run the cells step by step
 
-🧠 Notes
+***🧠 Notes***
 This project is my first hands-on experience with Retrieval-Augmented Generation and Croma. Expect basic code, early-stage learnings, and a few rough edges
